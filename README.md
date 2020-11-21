@@ -1,2 +1,2 @@
-# bike_boy
+# Svg animations made with css
 Svg Animation
